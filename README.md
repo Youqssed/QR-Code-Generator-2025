@@ -1,6 +1,16 @@
 # QR Code Generator
 
 A modern, feature-rich QR code generator built with vanilla HTML, CSS, and JavaScript. This application allows users to create custom QR codes with various types of content, styling options, and export capabilities.
+## 🔍 Topics
+
+`qr-code` `qr-code-generator` `qrcode` `qrcode-maker`  
+`javascript` `vanilla-javascript` `html` `css` `webapp`  
+`open-source` `frontend-tool` `barcode` `barcode-generator`  
+`wifi-qrcode` `vcard-qrcode` `image-qrcode` `qr-code-with-logo`  
+`customizable-qrcode` `responsive-webapp` `dark-mode`  
+`offline-tool` `progressive-webapp` `pwa` `utilities`  
+`qr-code-svg` `qr-code-png` `qr-code-download`  
+`online-tool` `developer-tool` `modern-webapp`  
 
 ## 🌟 Features
 
