@@ -3,7 +3,7 @@
 A modern, feature-rich QR code generator built with vanilla HTML, CSS, and JavaScript. This application allows users to create custom QR codes with various types of content, styling options, and export capabilities.
 
 ## Website URL
-https://relaxed-shortbread-03ba8f.netlify.app/
+[https://qr-codes-generator-wifi-image-contact.netlify.app/](https://qr-codes-generator-wifi-image-contact.netlify.app/)
 
 ## 🔍 Topics
 
